@@ -1,7 +1,8 @@
 ---
 templateKey: 'blog-post'
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
-date: 2017-01-04T15:04:10.000Z
+title: 'Cambio de título'
+date: 2021-10-16T10:04:10.000Z
+featuredimage: /img/chemex.jpg
 featuredpost: true
 description: >-
   We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
@@ -12,6 +13,7 @@ tags:
   - flavor
   - tasting
 ---
+![flavor wheel](/img/flavor_wheel.jpg)
 
 We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
 
